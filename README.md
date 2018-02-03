@@ -12,3 +12,6 @@ Here, I want to experiencing the rotory encoder, which will provide the pluse an
 ###Wiring a rotory encoder
 
 A basic rotory encoder will have 4 wires, vcc, gound, A and B. 
+<p align="center">
+ <img src="./rotary-encoder-arduino-wiring.png" width="800">
+</p>
