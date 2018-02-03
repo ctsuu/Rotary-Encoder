@@ -15,3 +15,11 @@ A basic rotory encoder will have 4 wires, vcc, gound, A and B.
 <p align="center">
  <img src="./rotary-encoder-arduino-wiring.png" width="800">
 </p>
+
+Using Arduino internal pullup can simplify the wiring. 
+```
+pinMode(2, INPUT_PULLUP); // internal pullup input pin 2 
+  
+pinMode(3, INPUT_PULLUP); // internal pullup input pin 3
+```
+
